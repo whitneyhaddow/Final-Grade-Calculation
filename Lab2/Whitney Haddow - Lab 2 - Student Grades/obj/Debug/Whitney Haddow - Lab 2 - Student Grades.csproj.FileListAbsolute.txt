@@ -1,0 +1,27 @@
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 2 - Student Grades\Whitney Haddow - Lab 2 - Student Grades\bin\Debug\Whitney Haddow - Lab 2 - Student Grades.exe.config
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 2 - Student Grades\Whitney Haddow - Lab 2 - Student Grades\bin\Debug\Whitney Haddow - Lab 2 - Student Grades.exe
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 2 - Student Grades\Whitney Haddow - Lab 2 - Student Grades\bin\Debug\Whitney Haddow - Lab 2 - Student Grades.pdb
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 2 - Student Grades\Whitney Haddow - Lab 2 - Student Grades\obj\Debug\Whitney Haddow - Lab 2 - Student Grades.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 2 - Student Grades\Whitney Haddow - Lab 2 - Student Grades\obj\Debug\Whitney_Haddow___Lab_2___Student_Grades.Form1.resources
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 2 - Student Grades\Whitney Haddow - Lab 2 - Student Grades\obj\Debug\Whitney_Haddow___Lab_2___Student_Grades.Properties.Resources.resources
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 2 - Student Grades\Whitney Haddow - Lab 2 - Student Grades\obj\Debug\Whitney Haddow - Lab 2 - Student Grades.csproj.GenerateResource.Cache
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 2 - Student Grades\Whitney Haddow - Lab 2 - Student Grades\obj\Debug\Whitney Haddow - Lab 2 - Student Grades.exe
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 2 - Student Grades\Whitney Haddow - Lab 2 - Student Grades\obj\Debug\Whitney Haddow - Lab 2 - Student Grades.pdb
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Day 5\Whitney Haddow - Lab 2 - Student Grades\Whitney Haddow - Lab 2 - Student Grades\bin\Debug\Whitney Haddow - Lab 2 - Student Grades.exe.config
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Day 5\Whitney Haddow - Lab 2 - Student Grades\Whitney Haddow - Lab 2 - Student Grades\obj\Debug\Whitney Haddow - Lab 2 - Student Grades.exe
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Day 5\Whitney Haddow - Lab 2 - Student Grades\Whitney Haddow - Lab 2 - Student Grades\obj\Debug\Whitney Haddow - Lab 2 - Student Grades.pdb
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Day 5\Lab2\Whitney Haddow - Lab 2 - Student Grades\bin\Debug\Whitney Haddow - Lab 2 - Student Grades.exe.config
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Day 5\Lab2\Whitney Haddow - Lab 2 - Student Grades\obj\Debug\Whitney Haddow - Lab 2 - Student Grades.exe
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Day 5\Lab2\Whitney Haddow - Lab 2 - Student Grades\obj\Debug\Whitney Haddow - Lab 2 - Student Grades.pdb
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Lab2\Whitney Haddow - Lab 2 - Student Grades\bin\Debug\Whitney Haddow - Lab 2 - Student Grades.exe.config
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Lab2\Whitney Haddow - Lab 2 - Student Grades\obj\Debug\Whitney Haddow - Lab 2 - Student Grades.exe
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Lab2\Whitney Haddow - Lab 2 - Student Grades\obj\Debug\Whitney Haddow - Lab 2 - Student Grades.pdb
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Lab2\Whitney Haddow - Lab 2 - Student Grades\bin\Debug\Whitney Haddow - Lab 2 - Student Grades.exe
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Lab2\Whitney Haddow - Lab 2 - Student Grades\bin\Debug\Whitney Haddow - Lab 2 - Student Grades.pdb
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Lab2\Whitney Haddow - Lab 2 - Student Grades\obj\Debug\Whitney Haddow - Lab 2 - Student Grades.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Lab2\Whitney Haddow - Lab 2 - Student Grades\obj\Debug\Whitney_Haddow___Lab_2___Student_Grades.Form1.resources
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Lab2\Whitney Haddow - Lab 2 - Student Grades\obj\Debug\Whitney_Haddow___Lab_2___Student_Grades.Properties.Resources.resources
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Lab2\Whitney Haddow - Lab 2 - Student Grades\obj\Debug\Whitney Haddow - Lab 2 - Student Grades.csproj.GenerateResource.Cache
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\Lab2\Whitney Haddow - Lab 2 - Student Grades\bin\Debug\Whitney Haddow - Lab 2 - Student Grades.exe.config
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\Lab2\Whitney Haddow - Lab 2 - Student Grades\obj\Debug\Whitney Haddow - Lab 2 - Student Grades.exe
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\Lab2\Whitney Haddow - Lab 2 - Student Grades\obj\Debug\Whitney Haddow - Lab 2 - Student Grades.pdb

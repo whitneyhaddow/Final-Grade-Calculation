@@ -1,0 +1,3 @@
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 2 - Student Grades\Whitney Haddow - Lab 2 - Student Grades\bin\Debug\Whitney Haddow - Lab 2 - Student Grades.exe.config
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 2 - Student Grades\Whitney Haddow - Lab 2 - Student Grades\obj\Debug\Whitney Haddow - Lab 2 - Student Grades.exe
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 2 - Student Grades\Whitney Haddow - Lab 2 - Student Grades\obj\Debug\Whitney Haddow - Lab 2 - Student Grades.pdb
